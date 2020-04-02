@@ -1,0 +1,574 @@
+body
+	{
+	  background-color: black;
+	  color: white;
+	  text-align: center;
+	  margin: 0px;
+	  scrollbar-face-color: navy;
+	  scrollbar-shadow-color: violet;
+	  scrollbar-track-color: orange;
+	  scrollbar-arrow-color: black;
+	}
+
+div.strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+div.strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+span.strumentale2::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale2::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale3::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale3::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale4::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale4::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale5::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale5::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale6::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale6::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale7::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale7::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+span.strumentale2en::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale2en::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale3en::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale3en::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale4en::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale4en::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale5en::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale5en::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale6en::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale6en::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale7en::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale7en::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+img.strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+img.strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+p#strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+p#strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+body#strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+body#strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+h3::selection
+	{
+	  background: black;
+	  color: red;
+	}
+  h3::-moz-selection
+	{
+	  background: black;
+	  color: red;
+	}
+
+
+p::selection
+	{
+	  background: black;
+	  color: blue;
+	}
+  p::-moz-selection
+	{
+	  background: black;
+	  color: blue;
+	}
+
+
+div::selection 
+	{
+	  background: black;
+	  color: red;
+	}
+  div::-moz-selection 
+	{
+	  background: black;
+	  color: red;
+	}
+
+.title
+	{
+	  color: yellow;
+	  text-transform: uppercase;
+	  margin-bottom: 0px;
+	}
+
+h1
+	{
+	  margin-bottom: 64px;
+	}
+
+#margin
+	{
+	  margin-top: 64px;
+	}
+fieldset 
+	{
+	  word-spacing: 8px;
+	  margin-left: 260px;
+	  position: relative;
+	  text-align: left;
+	  font-size: 16.5px;
+	  color: violet;
+	  border-color: yellow;
+	  width: 120px;
+	  height: 50px;
+	  margin-bottom: 15px;
+	}
+fieldset::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+fieldset::-moz-selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}	  
+
+fieldset#strumentale
+	{
+	  right: 165px;
+	  bottom: 0px;
+	  top: 50px;
+	}
+
+legend
+	{
+	  color: violet;
+	}
+legend::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+legend::-moz-selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+input::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+input::-moz-selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}	
+.none
+	{
+	  list-style-type: none;
+	}
+
+.position it
+	{
+	  position: relative;
+	  margin-top: 50px;
+	  margin-right: 0px;
+	  display: block;
+	}
+.posizioneit
+	{
+	  position: relative;
+	  bottom: 8px;
+	}
+.posizioneen
+	{
+	  position: relative;
+	  bottom: 8px;
+	}
+
+input[src*="spagna.jpg"]
+	{
+	  position: absolute;
+	  margin-top: -35px;
+	  margin-left: 65px;
+	}
+
+audio
+	{
+	  width: 100%;
+	  position: fixed;
+	  top: 2px;
+	  left: 0px;
+	  opacity: 0.5;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	    filter: alpha(opacity=50);
+	}
+
+audio:hover
+	{
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+audio:active
+	{
+	  opacity: 0.8;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	    filter: alpha(opacity=80);
+	}
+
+::scrollbar 
+	{
+	  width: 10px;
+	  background-color: black;
+	}
+  ::-webkit-scrollbar 
+	{
+	  width: 10px;
+	  background-color: black;
+	}
+  ::-moz-scrollbar 
+	{
+	  width: 10px;
+	  background-color: black;
+	}
+
+::scrollbar-track
+	{
+	  background-color: blue;
+	  border: 1px solid blue;
+	  border-radius: 10px 10px 10px 10px;
+	}
+  ::-webkit-scrollbar-track
+	{
+	  background-color: blue;
+	  border: 1px solid blue;
+	  border-radius: 10px 10px 10px 10px;
+	}
+  ::-moz-scrollbar-track
+	{
+	  background-color: blue;
+	  border: 1px solid blue;
+	  border-radius: 10px 10px 10px 10px;
+	}
+
+
+::scrollbar-thumb
+	{
+	  background-color: yellow;
+	  border: 1px solid red;
+	  border-radius: 10px 10px 10px 10px;
+	}
+  ::-webkit-scrollbar-thumb
+	{
+	  background-color: yellow;
+	  border: 1px solid red;
+	  border-radius: 10px 10px 10px 10px;
+	}
+  ::-moz-scrollbar-thumb
+	{
+	  background-color: yellow;
+	  border: 1px solid red;
+	  border-radius: 10px 10px 10px 10px;
+	}
+
+
+::scrollbar-button
+	{
+	  height: 1px;
+	  background-color: black;
+	}
+  ::-webkit-scrollbar-button
+	{
+	  height: 1px;
+	  background-color: black;
+	}
+  ::-moz-scrollbar-button
+	{
+	  height: 1px;
+	  background-color: black;
+	}
+
+
+
+::scrollbar-thumb:active
+	{
+	  background-color: orange;
+	  border: 1px solid red;
+	  border-radius: 10px 10px 10px 10px;
+	  width: 9px;
+	}
+  ::-webkit-scrollbar-thumb:active
+	{
+	  background-color: orange;
+	  border: 1px solid red;
+	  border-radius: 10px 10px 10px 10px;
+	  width: 9px;
+	}
+  ::-moz-scrollbar-thumb:active
+	{
+	  background-color: orange;
+	  border: 1px solid red;
+	  border-radius: 10px 10px 10px 10px;
+	  width: 9px;
+	}
+
+img.strumentale
+	{
+	  position: relative;
+	  right: 40px;
+	  opacity: 0.8;
+	  width: 425px;
+	  height: 400px;
+	  top: 0px;
+	}
+div.strumentale
+	{
+	  text-align: left;
+	  float: right;
+	  position: relative;
+	  right: 225px;
+	  top: 0px;
+	  margin: 0px;
+	  line-height: 35px;
+	  top: 0px;
+	}
+div.strumentaleen
+	{
+	  text-align: left;
+	  float: right;
+	  position: relative;
+	  right: 225px;
+	  top: 0px;
+	  margin: 0px;
+	  line-height: 35px;
+	  top: 0px;
+	  display: none;
+	}
+
+span.strumentale
+	{
+	  font-size: 23px;
+	  font-weight: bold;
+	  color: #BB00BB;
+	}
+span.strumentale2
+	{
+	  padding-left: 83px;
+	  font-size: 21px;
+	  color: yellow;
+	}
+span.strumentale3
+	{
+	  padding-left: 94px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	}
+span.strumentale4
+	{
+	  padding-left: 64px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	}
+span.strumentale5
+	{
+	  padding-left: 53px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	}
+span.strumentale6
+	{
+	  padding-left: 15px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	}
+span.strumentale7
+	{
+	  padding-left: 21px;
+	  font-size: 20px;
+	  color: yellow;
+	  letter-spacing: 0.8px;
+	}
+span.strumentale2en
+	{
+	  padding-left: 79px;
+	  font-size: 21px;
+	  color: yellow;
+	  font-weight: normal;
+	  letter-spacing: 0px;
+	}
+span.strumentale3en
+	{
+	  padding-left: 82px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale4en
+	{
+	  padding-left: 55px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale5en
+	{
+	  padding-left: 44px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale6en
+	{
+	  padding-left: 30px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale7en
+	{
+	  padding-left: 34px;
+	  font-size: 20px;
+	  color: yellow;
+	  letter-spacing: 0.8px;
+	  font-weight: normal;
+	}

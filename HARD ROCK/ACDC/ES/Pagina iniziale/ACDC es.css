@@ -1,0 +1,394 @@
+::selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+  ::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+body 
+	{
+	  background-color: black;
+	  color: yellow;
+	  margin-left: 20px;
+	  margin-right: 20px;
+	  margin-top: 0px;
+	  margin-bottom: 0px;
+	}  
+
+.lingua   
+	{
+	  position: fixed;
+	  margin-left: -20px;
+	  margin-top: -16px;
+	  border: 2px solid yellow;
+	  background-color: blue;
+	  border-left: none;
+	  border-top: none;
+	  border-radius: 0px 0px 10px 0px;
+	    -webkit-border-radius: 0px 0px 10px 0px;
+	    -moz-border-radius: 0px 0px 10px 0px;
+	  min-width: 60px;
+	  letter-spacing: 1px;
+	  cursor: pointer;
+	}
+
+.lingue   
+	{
+	  position: fixed;
+	  margin-left: -20px;
+	  margin-top: -16px;
+	  border: 2px solid yellow;
+	  background-color: blue;
+	  border-left: none;
+	  border-top: none;
+	  border-radius: 0px 0px 10px 0px;
+	    -webkit-border-radius: 0px 0px 10px 0px;
+	    -moz-border-radius: 0px 0px 10px 0px;
+	  letter-spacing: 1px;
+	  text-align: center;
+	  line-height: 52px;
+	  min-width: 170px;
+	  display: none;
+	}
+
+.col
+	{
+	  color: yellow;
+	  text-decoration: none;
+	  font-weight: 300;
+	}
+
+
+.ie
+	{
+	  text-align: center;
+	}
+	
+.g
+	{
+	  color: green;
+	}
+
+.v
+	{
+	  color: #BB00BB;
+	}
+
+img.acdc1
+	{
+	  width: 400px;
+	  height: 250px;
+	}
+
+img.acdc2
+	{
+	  width: 600px;
+	  height: 450px;
+	  float: right;
+	  margin-right: 45px;
+	}
+
+img.membri
+	{
+	  width: 600px;
+	  height: 450px;
+	  float: right;
+	  margin-right: 200px;
+	  margin-top: 140px;
+	  border: 1px solid grey;
+	}
+
+a.none
+	{
+	  text-decoration: none;
+	}
+
+.p 
+	{
+	  margin-left: 15px;
+	}
+
+a[href*="Album"]:link
+	{
+	  color: yellow;
+	}
+
+a[href*="Album"]:visited
+	{
+	  color: yellow;
+	}
+	
+
+a[href*="Album"]:hover
+	{
+	  color: orange;
+	  text-decoration: underline;
+	}
+
+a[href*="Album"]:active
+	{
+	  color: orange;
+	  text-decoration: none;
+	}
+a[href*="wiki"]:link
+	{
+	  color: yellow;
+	}
+
+a[href*="wiki"]:visited
+	{
+	  color: yellow;
+	}
+	
+
+a[href*="wiki"]:hover
+	{
+	  color: orange;
+	  text-decoration: underline;
+	}
+
+a[href*="wiki"]:active
+	{
+	  color: orange;
+	  text-decoration: none;
+	}
+
+a[href*="Immagini"]:link
+	{
+	  color: yellow;
+	}
+
+a[href*="Immagini"]:visited
+	{
+	  color: yellow;
+	}
+	
+
+a[href*="Immagini"]:hover
+	{
+	  color: orange;
+	  text-decoration: underline;
+	}
+
+a[href*="Immagini"]:active
+	{
+	  color: orange;
+	  text-decoration: none;
+	}
+
+a.none
+	{
+	  text-decoration: none;
+	  color: yellow;
+	}
+
+a:hover.none
+	{
+	  color: orange;
+	}
+
+a:active.none
+	{
+	  color: red;
+	}
+
+.chitarra
+	{
+	  background-list-style-image: url(./chitarra4.jpg);
+	  background-size: 10px 10px;
+	}
+
+#none
+	{
+	  color: green;
+	  text-decoration: none;
+	}
+#none2
+	{
+	  color: green;
+	  text-decoration: none;
+	}
+.col:hover
+	{
+	  color: orange;
+	}
+
+.col2
+	{
+	  color: yellow;
+	  text-decoration: none;
+	  text-transform: uppercase;
+	}
+
+img[src*="Bandiere"]:hover
+	{
+	  border: 2px solid purple;
+	  margin: 8px;
+	}
+
+.band
+	{
+	  float:left;
+	  margin: 10px;
+	  width: 50px;
+	  height: 30px;
+	}
+
+.pe
+	{
+	  color: #BB00BB;
+	  font-size: 21px;
+	}
+	  
+span ~ a
+	{
+	  text-decoration: none;
+	  font-size: 20px;
+	}
+span ~ a[href*="wiki"]:hover
+	{
+	  text-decoration: none;
+	}
+
+span ~ span
+	{
+	  white-space: pre;
+	}
+
+.em
+	{
+	  margin-bottom: 12px;
+	  margin-left: -15px;
+	}
+
+img#Angus
+	{
+	  float: right;
+	  width: 150px;
+	  height: 200px;
+	  margin-top: 0px;
+	  margin-right: 25px;
+	  border: 1px solid green;
+	  opacity: 0.7;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	    filter: alpha(opacity=70);
+	}
+
+img#Malcolm
+	{
+	  float: right;
+	  width: 150px;
+	  height: 200px;
+	  margin-top: 20px;
+	  margin-right: 25px;
+	  border: 1px solid blue;
+	  opacity: 0.7;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	    filter: alpha(opacity=70);
+	}
+
+img#Brian
+	{
+	  float: right;
+	  width: 165px;
+	  height: 200px;
+	  margin-top: 0px;
+	  margin-right: 25px;
+	  border: 1px solid yellow;
+	  opacity: 0.7;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	    filter: alpha(opacity=70);
+	}
+
+img#Cliff
+	{
+	  float: right;
+	  width: 140px;
+	  height: 200px;
+	  margin-top: 20px;
+	  margin-right: 25px;
+	  border: 1px solid red;
+	  opacity: 0.7;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	    filter: alpha(opacity=70);
+	}
+
+img#Phil
+	{
+	  float: right;
+	  width: 140px;
+	  height: 200px;
+	  margin-top: 0px;
+	  margin-right: 0px;
+	  border: 1px solid orange;
+	  opacity: 0.7;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	    filter: alpha(opacity=70);
+	}
+
+img#Angus:hover
+	{
+	  float: right;
+	  width: 150px;
+	  height: 200px;
+	  margin-top: 0px;
+	  margin-right: 25px;
+	  border: 1px solid green;
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+img#Malcolm:hover
+	{
+	  float: right;
+	  width: 150px;
+	  height: 200px;
+	  margin-top: 20px;
+	  margin-right: 25px;
+	  border: 1px solid blue;
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+img#Brian:hover
+	{
+	  float: right;
+	  width: 165px;
+	  height: 200px;
+	  margin-top: 0px;
+	  margin-right: 25px;
+	  border: 1px solid yellow;
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+img#Cliff:hover
+	{
+	  float: right;
+	  width: 140px;
+	  height: 200px;
+	  margin-top: 20px;
+	  margin-right: 25px;
+	  border: 1px solid red;
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+img#Phil:hover
+	{
+	  float: right;
+	  width: 140px;
+	  height: 200px;
+	  margin-top: 0px;
+	  margin-right: 0px;
+	  border: 1px solid orange;
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}

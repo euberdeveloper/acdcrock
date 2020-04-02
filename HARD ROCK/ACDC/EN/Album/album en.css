@@ -1,0 +1,157 @@
+::selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+  ::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+body.am 
+	{
+	  color: yellow;
+	  background-color: #0000D5;
+	}
+
+
+.title
+	{
+	  text-align: center;
+	  color: #F48100;
+	}
+
+
+.fe
+	{
+	  width: 400px;
+	  height: 400px;
+	}
+
+.ro
+	{
+	  width: 450px;
+	  height: 400px;
+	}
+
+.ie
+	{
+	  color: #00FF00;
+	} 
+.ee
+	{
+	  color: red;
+	}
+
+img[src*="Bandiere"]:hover
+	{
+	  border: 2px solid violet;
+	  margin: 8px;
+	}
+
+a[href*="Testi canzoni"]:link
+	{
+	  color: yellow;
+	  text-decoration: underline;
+	}
+a[href*="Testi canzoni"]:visited
+	{
+	  color: yellow;
+	  text-decoration: underline;
+	}
+a[href*="Testi canzoni"]:hover
+	{
+	  color: orange;
+	  text-decoration: none;
+	}
+a[href*="Testi canzoni"]:active
+	{
+	  color:red;
+	  text-decoration: none;
+	}
+
+a[href*="wiki"]:link
+	{
+	  color: yellow;
+	  text-decoration: underline;
+	}
+a[href*="wiki"]:visited
+	{
+	  color: yellow;
+	  text-decoration: underline;
+	}
+a[href*="wiki"]:hover
+	{
+	  color: orange;
+	  text-decoration: none;
+	}
+a[href*="wiki"]:active
+	{
+	  color:red;
+	  text-decoration: none;
+	}
+
+.ci
+	{
+	  list-style-type: decimal;
+	  color: yellow;
+	}
+
+.lingua   
+	{
+	  position: fixed;
+	  margin-left: -8px;
+	  margin-top: -48px;
+	  border: 2px solid yellow;
+	  background-color: purple;
+	  border-left: none;
+	  border-top: none;
+	  border-radius: 0px 0px 10px 0px;
+	    -webkit-border-radius: 0px 0px 10px 0px;
+	    -moz-border-radius: 0px 0px 10px 0px;
+	  min-width: 68px;
+	  letter-spacing: 1px;
+	  cursor: pointer;
+	}
+
+.col
+	{
+	  color: yellow;
+	  text-decoration: none;
+	  text-transform: uppercase;
+	  font-weight: 300;
+	}
+
+.lingue   
+	{
+	  position: fixed;
+	  margin-left: -8px;
+	  margin-top: -48px;
+	  border: 2px solid yellow;
+	  background-color: purple;
+	  border-left: none;
+	  border-top: none;
+	  border-radius: 0px 0px 10px 0px;
+	    -webkit-border-radius: 0px 0px 10px 0px;
+	    -moz-border-radius: 0px 0px 10px 0px;
+	  letter-spacing: 1px;
+	  text-align: center;
+	  line-height: 52px;
+	  min-width: 170px;
+	  display: none;
+	}
+
+
+.band
+	{
+	  float:left;
+	  margin: 10px;
+	  width: 50px;
+	  height: 30px;
+	}
+
+.col2:link,.col2:visited,.col2:hover,.col2:active
+	{
+	  color: yellow;
+	  text-decoration: none;
+	  text-transform: uppercase;
+	}

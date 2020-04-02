@@ -1,0 +1,30 @@
+body
+	{
+	  background-color: black;
+	  color: white;
+	  text-align: center;
+	  margin: 0px;
+	}
+
+.title
+	{
+	  color: yellow;
+	  text-transform: uppercase;
+	}
+#margin
+	{
+	  margin-top: 64px;
+	}
+fieldset 
+	{
+	  word-spacing: 8px;
+	  margin-left: 260px;
+	  position: relative;
+	  text-align: left;
+	  font-size: 16.5px;
+	  color: violet;
+	  border-color: yellow;
+	  width: 120px;
+	  height: 50px;
+	  margin-bottom: 15px;
+	}

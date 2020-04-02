@@ -1,0 +1,522 @@
+body
+	{
+	  background-color: black;
+	  color: white;
+	  text-align: center;
+	  margin: 0px;
+	  scrollbar-face-color: navy;
+	  scrollbar-shadow-color: violet;
+	  scrollbar-track-color: orange;
+	  scrollbar-arrow-color: navy;
+	}
+
+div.strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+div.strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+span.strumentale2::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale2::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale3::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale3::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale4::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale4::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale5::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale5::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale6::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale6::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale7::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale7::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale2it::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale2it::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale3it::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale3it::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale4it::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale4it::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale5it::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale5it::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale6it::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale6it::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+span.strumentale7it::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+span.strumentale7it::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+img.strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+img.strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+p#strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+p#strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+body#strumentale::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+body#strumentale::-moz-selection {
+	      color: white;  
+	      background: #b3d4fc;
+		}
+
+
+h3::selection
+	{
+	  background: black;
+	  color: red;
+	}
+  h3::-moz-selection
+	{
+	  background: black;
+	  color: red;
+	}
+
+p::selection
+	{
+	  background: black;
+	  color: blue;
+	}
+
+div::selection 
+	{
+	  background: black;
+	  color: red;
+	}
+
+  p::-moz-selection
+	{
+	  background: black;
+	  color: blue;
+	}
+
+  div::-moz-selection 
+	{
+	  background: black;
+	  color: red;
+	}
+
+.title
+	{
+	  color: yellow;
+	  text-transform: uppercase;
+	  margin-bottom: 0px;
+	}
+
+h1
+	{
+	  margin-bottom: 64px;
+	}
+
+#margin
+	{
+	  margin-top: 64px;
+	}
+
+fieldset 
+	{
+	  word-spacing: 8px;
+	  margin-left: 260px;
+	  position: relative;
+	  text-align: left;
+	  font-size: 16.5px;
+	  color: violet;
+	  border-color: yellow;
+	  width: 120px;
+	  height: 50px;
+	  margin-bottom: 15px;
+	}
+fieldset::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+fieldset::-moz-selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}	  
+
+fieldset#strumentale
+	{
+	  right: 165px;
+	  bottom: 0px;
+	  top: 50px;
+	}
+
+legend
+	{
+	  color: violet;
+	}
+legend::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+legend::-moz-selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+input::selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}
+
+input::-moz-selection
+	{
+	  color: white;  
+	  background: #b3d4fc;
+	}	
+.posizioneit
+	{
+	  position: relative;
+	  bottom: 8px;
+	}
+.posizioneen
+	{
+	  position: relative;
+	  bottom: 8px;
+	}
+div.strumentaleit
+	{
+	  text-align: left;
+	  float: right;
+	  position: relative;
+	  right: 225px;
+	  top: 0px;
+	  margin: 0px;
+	  line-height: 35px;
+	  top: 0px;
+	  display: none;
+	}
+
+audio
+	{
+	  width: 100%;
+	  position: fixed;
+	  top: 0;
+	  left: 0%;
+	  opacity: 0.5;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	    filter: alpha(opacity=50);
+	}
+
+audio:hover
+	{
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+audio:active
+	{
+	  opacity: 0.8;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	    filter: alpha(opacity=80);
+	}
+
+.lingua
+	{
+	  opacity: 0.1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+	    filter: alpha(opacity=10);
+	  position: fixed;
+	  border: 2px solid yellow;
+	  border-right: none;
+	  margin-top: 0px;
+	  margin-right: 0px;
+	  margin-left: 1163px;
+	  text-align: center;
+	  background-color: blue;
+	  color: yellow;
+	  width: 180px;
+	  padding: 1px;
+	  padding-right: 4px;
+	  line-height: 52px;
+	}
+
+a
+	{
+	  color: yellow;
+	  letter-spacing: 1px;
+	  text-decoration: none;
+	  font-weight: 300;
+	}
+
+span
+	{
+	  font-weight: bold;
+	  letter-spacing: 1px;
+	}
+	 
+.band
+	{
+	  float:left;
+	  margin: 10px;
+	  width: 50px;
+	  height: 30px;
+	} 
+
+img[src*="Bandiere"]:hover
+	{
+	  border: 2px solid purple;
+	  margin: 8px;
+	}
+
+.lingua:hover
+	{
+	  opacity: 1;
+	    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	    filter: alpha(opacity=100);
+	}
+
+img.strumentale
+	{
+	  position: relative;
+	  right: 40px;
+	  opacity: 0.8;
+	  width: 425px;
+	  height: 400px;
+	  top: 0px;
+	}
+div.strumentale
+	{
+	  text-align: left;
+	  float: right;
+	  position: relative;
+	  right: 225px;
+	  top: 0px;
+	  margin: 0px;
+	  line-height: 35px;
+	  top: 0px;
+	}
+
+span.strumentale
+	{
+	  font-size: 23px;
+	  font-weight: bold;
+	  color: #BB00BB;
+	}
+span.strumentale2
+	{
+	  padding-left: 83px;
+	  font-size: 21px;
+	  color: yellow;
+	  font-weight: normal;
+	  letter-spacing: 0px;
+	}
+span.strumentale3
+	{
+	  padding-left: 86px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale4
+	{
+	  padding-left: 58px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale5
+	{
+	  padding-left: 46px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale6
+	{
+	  padding-left: 30px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale7
+	{
+	  padding-left: 35px;
+	  font-size: 20px;
+	  color: yellow;
+	  letter-spacing: 0.8px;
+	  font-weight: normal;
+	}
+span.strumentale2it
+	{
+	  padding-left: 89px;
+	  font-size: 21px;
+	  color: yellow;
+	  font-weight: normal;
+	  letter-spacing: 0px;
+	}
+span.strumentale3it
+	{
+	  padding-left: 100px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale4it
+	{
+	  padding-left: 69px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale5it
+	{
+	  padding-left: 57px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale6it
+	{
+	  padding-left: 15px;
+	  font-size: 21px;
+	  color: yellow;
+	  letter-spacing: 1.3px;
+	  font-weight: normal;
+	}
+span.strumentale7it
+	{
+	  padding-left: 22px;
+	  font-size: 20px;
+	  color: yellow;
+	  letter-spacing: 0.8px;
+	  font-weight: normal;
+	}
